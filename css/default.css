@@ -95,6 +95,10 @@ q:before, q:after {
    content: none;
 }
 
+#abtMe{
+ color:white;
+}
+
 ins {
    background-color: #ff9;
    color: #000;
